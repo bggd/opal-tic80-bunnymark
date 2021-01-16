@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gem 'rake'
 gem 'opal', '~> 1.0'
-gem 'opal-tic80', git: 'https://github.com/bggd/opal-tic80', ref: '7d73f89'
+gem 'opal-tic80', git: 'https://github.com/bggd/opal-tic80', ref: '0fd1e71'
